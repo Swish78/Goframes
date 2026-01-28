@@ -4,9 +4,9 @@ dist/
 build/
 captured_frames/
 
-# Binaries
-worker
-consumer
+# Binaries (root level)
+/worker
+/consumer
 
 # Media
 *.mp4
